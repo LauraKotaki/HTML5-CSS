@@ -1,4 +1,21 @@
 body{
     background: rgb(212, 202, 202);
-    
-}
+    margin-left:100px;
+    margin-right: 50px;
+    float: center;
+    }
+    header{
+           margin-top: 70px;
+        }
+
+    h1{
+        color: red;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 50px;
+        margin-left: 10px;
+    }
+
+    img {
+        margin-bottom: 20px; /*margem abaixo do elemento */
+        margin: 20px;
+    }
