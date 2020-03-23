@@ -19,3 +19,6 @@ body{
         margin-bottom: 20px; /*margem abaixo do elemento */
         margin: 20px;
     }
+    .img_padrao{
+        margin-bottom:0px;
+    }
